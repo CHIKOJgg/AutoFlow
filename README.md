@@ -1,8 +1,8 @@
-# FlowPilot
+# AutoFlow
 
 *Empower your business with seamless automation.*
 
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/flowpilot)  
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/yourusername/AutoFlow)  
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 ---
@@ -23,9 +23,9 @@
 
 ## Introduction
 
-Welcome to **FlowPilot** – your ultimate automation companion for streamlining routine business processes. Designed for small to medium businesses and professionals, FlowPilot enables you to automate repetitive tasks effortlessly. With our user-friendly drag-and-drop interface, you can create custom workflows that connect your favorite tools, reduce manual errors, and boost productivity.
+Welcome to **AutoFlow** – your ultimate automation companion for streamlining routine business processes. Designed for small to medium businesses and professionals, AutoFlow enables you to automate repetitive tasks effortlessly. With our user-friendly drag-and-drop interface, you can create custom workflows that connect your favorite tools, reduce manual errors, and boost productivity.
 
-Say goodbye to tedious manual tasks and let FlowPilot pilot your process automation, so you can focus on growing your business!
+Say goodbye to tedious manual tasks and let AutoFlow pilot your process automation, so you can focus on growing your business!
 
 ---
 
@@ -82,5 +82,5 @@ Say goodbye to tedious manual tasks and let FlowPilot pilot your process automat
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/flowpilot.git
-cd flowpilot
+git clone https://github.com/yourusername/AutoFlow.git
+cd AutoFlow
